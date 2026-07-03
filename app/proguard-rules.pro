@@ -1,0 +1,2 @@
+-keep class com.inhelper.** { *; }
+-dontwarn com.inhelper.**
